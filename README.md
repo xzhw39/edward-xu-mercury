@@ -53,8 +53,8 @@ This project is aimed to optimize Horiseon Inc. website to increase web accessib
 
 ## Link to Work
 
-[GitHub](https://en.wikipedia.org/wiki/Agile_software_development)
+[GitHub](https://github.com/xzhw39/edward-xu-mercury)
 
 
-[Deployed Website](https://en.wikipedia.org/wiki/Agile_software_development)
+[Deployed Website](https://xzhw39.github.io/edward-xu-mercury/)
 

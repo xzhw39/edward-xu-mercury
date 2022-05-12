@@ -49,7 +49,7 @@ This project is aimed to optimize Horiseon Inc. website to increase web accessib
 
 * **Optimized Code**
 
-![](./assets/images/CSS-comments.png)
+![](./assets/images/CSS-Comments.png)
 
 ## Link to Work
 

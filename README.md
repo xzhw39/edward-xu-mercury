@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is aimed to optimize Horiseon Inc. website to increase web accessibility and improve search engine optimization (SEO).  The website code was refactored by including a descriptive title, incporating HTML semantic tags, and adding alt texts to images so that the website is more screen eader-friendly. The codes were also polished by adding comments and consolidating the commands.
+This project is aimed to optimize Horiseon Inc. website to increase web accessibility and improve search engine optimization (SEO).  The website code was refactored by including a descriptive title, incporating HTML semantic tags, and adding alt texts to images so that the website is more screen reader-friendly. The codes were also polished by adding comments and consolidating the commands.
 
 
 ## Examples of Work Performed
@@ -12,44 +12,44 @@ This project is aimed to optimize Horiseon Inc. website to increase web accessib
 
 * **Original Code**
 
-![](./Assets/images/Original-Nondescriptive-Title.png)
+![](./assets/images/Original-Nondescriptive-Title.png)
 
 * **Optimized Code**
 
-![](./Assets/images/Title-Optimization.png)
+![](./assets/images/Title-Optimization.png)
 
 ### Addition of alt text to images
 
 
 * **Original Code**
 
-![](./Assets/images/Original-No-Alt-Text.png)
+![](./assets/images/Original-No-Alt-Text.png)
 
 * **Optimized Code**
 
-![](./Assets/images/Alt-Text.png)
+![](./assets/images/Alt-Text.png)
 
 ### CSS code consolidation
 
 
 * **Original Code**
 
-![](./Assets/images/Original-Redundancy.png)
+![](./assets/images/Original-Redundancy.png)
 
 * **Optimized Code**
 
-![](./Assets/images/CSS-Consolidation.png)
+![](./assets/images/CSS-Consolidation.png)
 
 ### Developer-friendly CSS code comments
 
 
 * **Original Code**
 
-![](./Assets/images/Original-Without-Comments.png)
+![](./assets/images/Original-Without-Comments.png)
 
 * **Optimized Code**
 
-![](./Assets/images/CSS-comments.png)
+![](./assets/images/CSS-comments.png)
 
 ## Link to Work
 
